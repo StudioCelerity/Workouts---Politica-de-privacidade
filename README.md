@@ -1,35 +1,33 @@
-# Privacy Policy
+# Política de Privacidade – Workouts
 
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website, StudioCelerity/Workouts---Politica-de-privacidade, and other sites we own and operate.
+## 1. Introdução
+O aplicativo Workouts valoriza a privacidade dos seus usuários e está comprometido em proteger seus dados pessoais. Esta Política de Privacidade explica como coletamos, utilizamos, armazenamos e protegemos suas informações.
 
-## Information We Collect
+## 2. Informações Coletadas
+Podemos coletar os seguintes tipos de dados:- Dados pessoais fornecidos pelo usuário: nome, e-mail, idade, sexo.- Dados de uso: registros de treinos, metas, preferências de exercícios.
 
-We may ask for personal information which can include, but is not limited to, your name and email address.
+## 3. Finalidade do Uso
+As informações coletadas são utilizadas para:- Personalizar sua experiência de treino.- Melhorar funcionalidades e desempenho do aplicativo.- Enviar notificações relacionadas a treinos e atualizações.- Garantir segurança e prevenir fraudes.
 
-## How We Use Your Information
+## 4. Compartilhamento de Dados
+Não compartilhamos seus dados pessoais com terceiros, exceto:- Quando exigido por lei ou autoridade competente.- Com prestadores de serviço que auxiliam na operação do aplicativo (ex.: hospedagem de dados), sempre sob contrato de confidencialidade.
 
-We may use the information we collect to:
-- Provide, operate, and maintain our website
-- Improve, personalize, and expand our website
-- Understand and analyze how you use our website
-- Develop new products, services, features, and functionality
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+##5. Armazenamento e Segurança
+- Os dados são armazenados em servidores seguros.
+- Utilizamos medidas técnicas e organizacionais para proteger suas informações contra acesso não autorizado, perda ou alteração.
+  
+## 6. Direitos do Usuário
+Você tem direito a:
+- Acessar seus dados pessoais.
+- Solicitar correção ou exclusão de informações.
+- Revogar consentimento para uso de dados.
+- Solicitar portabilidade dos dados, conforme legislação aplicável.
+  
+## 7. Retenção de Dados
+Os dados serão mantidos enquanto sua conta estiver ativa ou conforme necessário para cumprir obrigações legais.
 
-## Sharing Your Information
+## 8. Alterações na Política
+Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos os usuários sobre mudanças relevantes por meio do aplicativo ou e-mail.
 
-We do not share your personal information with third parties.
-
-## Your Privacy Rights
-
-You have the right to request copies of your personal information, and you have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we erase your personal information.
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:  
-Email: support@studiocelerity.com  
-
-Last updated: 2026-04-01
+## 9. Contato
+Em caso de dúvidas ou solicitações relacionadas à privacidade, entre em contato pelo e-mail: studiocelerity@gmail.com
